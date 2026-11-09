@@ -1,0 +1,11 @@
+# Изображения первого экрана
+
+Созданы встроенным инструментом image_gen 29 октября 2026 года. Синтетические модели, не фотографии сотрудников или клиентов салона.
+
+## 01 — Портрет, hero-portrait.png
+
+Use case: photorealistic-natural. Asset type: photographic hero background for NIKA NAGEL, a friendly contemporary beauty salon in Tula. Generate one landscape editorial beauty photograph, aspect ratio 3:2. An adult brunette woman age around 30, relaxed authentic expression, beautifully healthy shoulder-length flowing chestnut hair, wearing a soft light-neutral blouse, showing one elegant hand near her collar with short dusty rose manicured nails, natural skin texture, understated makeup. Crop waist-up. She occupies the RIGHT 55 percent of the image with the head fully within frame and breathing room above. The LEFT 45 percent is nearly empty plain light neutral warm-gray studio wall #F2F0ED to support a text overlay. Soft diffused window light, subtle soft shadow, muted graphite and warm gray, small dusty rose details #D9AEBB. Modern salon campaign photography, quiet approachable elegance, believable human proportions. No text, no logos, no watermark, no border, no collage. Do not render a website or typography.
+
+## 02 — Работа мастера, hero-salon.png
+
+Use case: photorealistic-natural. Asset type: wide landscape 3:2 hero photograph for NIKA NAGEL beauty salons in Tula. A candid polished editorial salon scene: adult female stylist in soft graphite workwear carefully arranging the ends of an adult female client's healthy flowing chestnut wavy hair; client seated wearing neutral off-white salon cape, face visible in three-quarter profile with relaxed smile. Two women positioned in RIGHT 55 percent of frame, with their heads fully visible, stylist slightly behind client. LEFT 45 percent is negative space, pale warm neutral wall #F2F0ED with soft natural window light, nearly no objects. Modern salon background, out-of-focus curved mirror at far right and subtle dusty rose furnishing #D9AEBB, no gold or terracotta color accents. Natural beautiful hair and believable hands, quietly welcoming, not luxury fashion aloofness. No typography, no logos, no watermark, no website mockup.
